@@ -4,10 +4,11 @@
 # - 7 -> да
 # - 1 -> нет
 
-N = int(input('Введите номер дня недели: '))
-if 1 <= N <= 5:
+number = int(input('Введите номер дня недели: '))
+if 1 <= number <= 5:
     print('No')
-elif 6 <= N <= 7:
+elif 6 <= number <= 7:
     print('Yes')
 else:
     print('Enter correct num')
+    
