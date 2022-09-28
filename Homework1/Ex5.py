@@ -12,3 +12,4 @@ y2 = int(input('Введите y:'))
 
 result = (((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2))) ** (0.5)
 print(int(result*100)/100)
+
