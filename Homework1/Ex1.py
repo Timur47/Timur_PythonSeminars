@@ -11,3 +11,4 @@ elif 6 <= number <= 7:
     print('Yes')
 else:
     print('Enter correct num')
+    

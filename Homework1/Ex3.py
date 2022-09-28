@@ -15,7 +15,6 @@ elif x == 0:
 elif y == 0:
     print('Точка лежит на оси Y')
 
-
 if x > 0 and y > 0:
     print('Точка лежит в 1 четверти')
 elif x < 0 and y < 0:
