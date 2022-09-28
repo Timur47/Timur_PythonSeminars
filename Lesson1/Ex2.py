@@ -8,4 +8,4 @@ max = some_list[0]
 for i in some_list:
     if max < i:
         max = i
-print (max)s
+print (max)
