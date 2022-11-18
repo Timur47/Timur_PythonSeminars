@@ -1,3 +1,6 @@
+# Прикрутить бота к задачам с предыдущего семинара:
+# Создать телефонный справочник с возможностью импорта и экспорта данных в нескольких форматах
+
 from telebot import types
 import telebot.types
 from telebot import TeleBot
